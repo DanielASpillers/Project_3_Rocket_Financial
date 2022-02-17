@@ -79,7 +79,7 @@ Inspectors fill the checklist and log any issues found. Users can even take a pi
 *Include all Resources and Requirement needed for the Task
 *Implement First-Time Fix Rate (FTFR).
 *You need Field Technicians to dispatch
-\*Implement ETA of your Technicians on Truck Roll events including documentation of Windshield Time.
+*Implement ETA of your Technicians on Truck Roll events including documentation of Windshield Time.
 
 ##Sales
 
@@ -104,9 +104,9 @@ Inspectors fill the checklist and log any issues found. Users can even take a pi
 
 ##Marketing
 
-*reate and customize entities including all the standard details of the customer.
-*tore all info in Dataverse in related tables
-*reate a Marketing Strategy (includes customized email).
+*Create and customize entities including all the standard details of the customer.
+*Store all info in Dataverse in related tables
+*Create a Marketing Strategy (includes customized email).
 *Phone Cold-Calling
 *Utilize BPFs
 *Teams Meetings
